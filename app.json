@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
+            "value": "8111904707"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alien"
+            "value": "Riley"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -26,7 +26,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "Arjun"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -34,14 +34,6 @@
         },
     "NORMAL": {
             "description": "Use Fancy Templayes Rather Than Normal Messages",
-            "required": false
-        },
-    "ADVER_URL": {
-            "description": "Adplay Target Url",
-            "required": false
-        },
-    "ADVER": {
-            "description": "Adplay Text",
             "required": false
         },
     "ALIVE_IMAGE": {
@@ -59,7 +51,7 @@
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
+            "value": "*"
         },
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
@@ -69,73 +61,24 @@
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "R I L E Y"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
             "required": false,
-            "value": "✩"
-        },
-    "MAIL": {
-            "description": "Premium user number (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
-        },
-    "YOUTUBE": {
-            "description": "Youtube Channel Link (leave it if you dont have one)",
-            "required": false,
-            "value": "https://youtube.com/c/alienalfa"
-        },
-    "GITHUB": {
-            "description": "Your Github Account URL (leave it if you dont have one)",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/"
-        },
-    "INSTAGRAM": {
-            "description": "Your Instagram Id URL (leave it if you dont have one)",
-            "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "*"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "R I L E Y"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "R I L E Y"
         },
-    "IMAGE": {
-            "description": "Main Image For The Bot (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
-        },
-    "IMAGE2": {
-            "description": "Image For The Bot (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
-        },
-    "BUTTONURL_LINK1": {
-            "description": "URL Button Id/Link (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
-        },
-    "BUTTONURL_LINK2": {
-            "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
-            "required": false,
-            "value": "https://youtube.com/c/alienalfa"
-        },
-    "BUTTONURL_OPTION1": {
-            "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
-            "required": false,
-            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
-        },
-    "BUTTONURL_OPTION2": {
-            "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
-            "required": false,
-            "value": "ʏᴏᴜᴛᴜʙᴇ"
-        },
+    
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
             "required": false,
@@ -172,7 +115,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "Alfa"
+            "value": "Riley"
         }
 	},
 	
